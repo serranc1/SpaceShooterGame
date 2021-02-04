@@ -1,2 +1,2 @@
 # SpaceShooterGame
-This is a project made using Unity.
+This is a 2D game made using Unity.
